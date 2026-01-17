@@ -11,6 +11,7 @@ Este repositório está realizando a automação Web do site todoMVC com o frame
 ### Documentações 
 
 - Site: [Acesse o site](https://todomvc.com/examples/javascript-es5/dist/)
+- Analise e levantamento de requisitos site: [Acesse o site Miro](https://miro.com/app/board/uXjVJKPE70A=/?moveToWidget=3458764651048168210&cot=14)
 - Estrutura PageObjects para automação
 
 ### Como foi configurado o projeto
@@ -66,4 +67,5 @@ https://github.com/WasiqB/multiple-cucumber-html-reporter?source=post_page-----4
 email: anglica.viana@yahoo.com.br
 
 redes socias: https://www.linkedin.com/in/angelicaviana-qa/
+
 
