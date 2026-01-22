@@ -1,0 +1,10 @@
+{
+  "name": "todomvc-cypress",
+  "version": "1.0.0",
+  "main": "index.js",
+  "author": "Angelica Viana",
+  "license": "MIT",
+  "devDependencies": {
+    "cypress": "^15.7.1"
+  }
+}
